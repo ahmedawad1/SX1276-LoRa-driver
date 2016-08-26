@@ -31,4 +31,12 @@ This will download the liberaries required for Libelium modules but we will make
 
 and replace the exisiting "SX_01a_TX_LoRa.cpp" with the modified file from this repository found on
 <url>https://github.com/ahmedawad1/SX1276-LoRa-driver/blob/master/SX1276_LoRa_TX/SX_01a_TX_LoRa.cpp</url>
-		
+
+4- do the same for the liberaries, navigate to /cooking/liberaries/arduPiLoRa and replace all 2 exisiting files by the modified liberaries "arduPiLoRa.h" and "arduPiLoRa.cpp" found on
+<url>https://github.com/ahmedawad1/SX1276-LoRa-driver/tree/master/SX1276_LoRa_TX</url>
+
+5- navigate back to /cooking/examples/LoRa and execute the following 2 commands 
+<code>sudo ./cook.sh SX_01a_TX_LoRa.cpp</code>
+and to run it use:
+<code>sudo ./SX_01b_RX_LoRa.cpp_exe</code>
+
