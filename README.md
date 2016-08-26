@@ -13,4 +13,9 @@ inAir9B advantages over Libelium LoRa modules:
 - SX1276 has higher receiver sensitivity 
 - SX1276 higher output power through the PA_BOOST connection and not RFO pin like in the Libelium modules.
 
+
 <b>Using the Liberary</b>
+
+1- On Raspberry Pi 3, create a directory.
+<code>wget http://www.cooking-hacks.com/media/cooking/images/documentation/raspberry_arduino_shield/raspberrypi2.zip && unzip raspberrypi2.zip && cd cooking/arduPi && chmod +x install_arduPi && ./install_arduPi && rm install_arduPi && cd ../..</code>
+		
