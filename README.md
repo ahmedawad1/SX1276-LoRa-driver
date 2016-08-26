@@ -23,5 +23,5 @@ inAir9B advantages over Libelium LoRa modules:
 
 This will download the liberaries required for Libelium modules but we will make some changes to make it compatible with inAir9B from Modtronix.
 
-
+2- 
 		
