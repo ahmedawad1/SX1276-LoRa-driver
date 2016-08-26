@@ -42,5 +42,9 @@ and replace the exisiting "SX_01a_TX_LoRa.cpp" with the modified file from this 
 and to run it use:
 <code>sudo ./SX_01b_RX_LoRa.cpp_exe</code>
 
+<strong>Rx Preparation</strong>
+
+The same above steps applies on another Raspberry Pi which acts as the receiver node, the difference will be substitution of the receiver main file and the liberaries as well, all found on 
+<url>https://github.com/ahmedawad1/SX1276-LoRa-driver/tree/master/SX1276_LoRa_RX</url>
 
 
