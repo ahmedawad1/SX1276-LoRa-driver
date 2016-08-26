@@ -20,5 +20,5 @@ inAir9B advantages over Libelium LoRa modules:
 
 This will download the liberaries required for Libelium modules but we will make some changes to make it compatible with inAir9B from Modtronix.
 
-<code>wget http://www.cooking-hacks.com/media/cooking/images/documentation/raspberry_arduino_shield/raspberrypi2.zip && unzip raspberrypi2.zip && cd cooking/arduPi && chmod +x install_arduPi && ./install_arduPi && rm install_arduPi && cd ../..</code>
+<area>wget http://www.cooking-hacks.com/media/cooking/images/documentation/raspberry_arduino_shield/raspberrypi2.zip && unzip raspberrypi2.zip && cd cooking/arduPi && chmod +x install_arduPi && ./install_arduPi && rm install_arduPi && cd ../..</area>
 		
