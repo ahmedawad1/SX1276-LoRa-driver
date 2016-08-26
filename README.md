@@ -18,7 +18,10 @@ inAir9B advantages over Libelium LoRa modules:
 
 1- On Raspberry Pi 3, create a directory, navigate to this directory using the shell and execute this command:
 
+
+<code>wget http://www.cooking-hacks.com/media/cooking/images/documentation/raspberry_arduino_shield/raspberrypi2.zip && unzip raspberrypi2.zip && cd cooking/arduPi && chmod +x install_arduPi && ./install_arduPi && rm install_arduPi && cd ../..</code>
+
 This will download the liberaries required for Libelium modules but we will make some changes to make it compatible with inAir9B from Modtronix.
 
-<area>wget http://www.cooking-hacks.com/media/cooking/images/documentation/raspberry_arduino_shield/raspberrypi2.zip && unzip raspberrypi2.zip && cd cooking/arduPi && chmod +x install_arduPi && ./install_arduPi && rm install_arduPi && cd ../..</area>
+
 		
