@@ -16,6 +16,8 @@ inAir9B advantages over Libelium LoRa modules:
 
 <b>Using the Liberary</b>
 
+<strong>Tx preparation</strong>
+
 1- On Raspberry Pi 3, create a directory, navigate to this directory using the shell and execute this command:
 
 
@@ -39,4 +41,6 @@ and replace the exisiting "SX_01a_TX_LoRa.cpp" with the modified file from this 
 <code>sudo ./cook.sh SX_01a_TX_LoRa.cpp</code>
 and to run it use:
 <code>sudo ./SX_01b_RX_LoRa.cpp_exe</code>
+
+
 
