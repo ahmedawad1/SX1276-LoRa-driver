@@ -23,5 +23,12 @@ inAir9B advantages over Libelium LoRa modules:
 
 This will download the liberaries required for Libelium modules but we will make some changes to make it compatible with inAir9B from Modtronix.
 
-2- 
+2- after download is finished, execute also 
+
+<code>wget http://www.cooking-hacks.com/media/cooking/images/documentation/tutorial_SX1272/arduPi-api_LoRa_v1_4.zip && unzip -u arduPi-api_LoRa_v1_4.zip && cd cooking/examples/LoRa && chmod +x cook.sh && cd ../../..  </code> 
+
+3- after you have downloaded eveything, you are ready to use the modified library, navigate to /cooking/examples/LoRa 
+
+and replace the exisiting "SX_01a_TX_LoRa.cpp" with the modified file from this repository found on
+<url>https://github.com/ahmedawad1/SX1276-LoRa-driver/blob/master/SX1276_LoRa_TX/SX_01a_TX_LoRa.cpp</url>
 		
